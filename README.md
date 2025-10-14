@@ -1,6 +1,11 @@
 <a name="readme-top"></a>
 
 <div align="center">
+
+  [![Stargazers][stars-shield]][stars-url]
+  [![Watchers][watchers-shield]][watchers-url]
+  [![Forks][forks-shield]][forks-url]
+
   <h1 align="center">Bash Scripting Journey</h1>
   <p align="center">
     A repository to document my journey learning Bash scripting.
@@ -105,6 +110,12 @@ Project Link: [https://github.com/drod75/Bash_Scripting](https://github.com/drod
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+[stars-shield]: https://img.shields.io/github/stars/drod75/Bash_Scripting.svg?style=social
+[stars-url]: https://github.com/drod75/Bash_Scripting/stargazers
+[watchers-shield]: https://img.shields.io/github/watchers/drod75/Bash_Scripting.svg?style=social
+[watchers-url]: https://github.com/drod75/Bash_Scripting/watchers
+[forks-shield]: https://img.shields.io/github/forks/drod75/Bash_Scripting.svg?style=social
+[forks-url]: https://github.com/drod75/Bash_Scripting/network/members
 [Bash-shield]: https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
 [Bash-url]: https://www.gnu.org/software/bash/
 [Git-Bash-shield]: https://img.shields.io/badge/Git%20Bash-2C2C2C?style=for-the-badge&logo=git&logoColor=F05032
