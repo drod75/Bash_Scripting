@@ -47,6 +47,7 @@ The playlist can be found here: [Bash Scripting Playlist](https://www.youtube.co
 ### Built With
 
 * [![Bash][Bash-shield]][Bash-url]
+* [![Git Bash][Git-Bash-shield]][Git-Bash-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +99,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-David Rodriguez - dr507498@gmail.com
+David Rodriguez - dr507498@gmail.com - [LinkedIn](https://www.linkedin.com/in/david-rodriguez-nyc/)
 
 Project Link: [https://github.com/drod75/Bash_Scripting](https://github.com/drod75/Bash_Scripting)
 
@@ -106,3 +107,5 @@ Project Link: [https://github.com/drod75/Bash_Scripting](https://github.com/drod
 
 [Bash-shield]: https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
 [Bash-url]: https://www.gnu.org/software/bash/
+[Git-Bash-shield]: https://img.shields.io/badge/Git%20Bash-2C2C2C?style=for-the-badge&logo=git&logoColor=F05032
+[Git-Bash-url]: https://git-scm.com/
